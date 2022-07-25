@@ -13,7 +13,7 @@ function App() {
 
     <>
       <div className="App">
-          <h1>xxxxxxxxxxxxxxxxxxxxxx in michal branch</h1>
+          <h1>xxxxxxxxxxxxxxxxxxxxxx in the full updated michal branch</h1>
           <h3>vvvvvvvvvvvvvvvvvvvvvv</h3>
         <Provider store={store}>
           <h1>I just want to check the git hub!!!</h1>
