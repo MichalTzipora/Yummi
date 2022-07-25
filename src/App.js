@@ -15,6 +15,7 @@ function App() {
       <div className="App">
         <Provider store={store}>
           <h1>I just want to check the git hub!!!</h1>
+          <h1>So Strange...</h1>
           <BrowserRouter>
             <Menu></Menu>
             <Router></Router>
