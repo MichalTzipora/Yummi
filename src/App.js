@@ -13,6 +13,7 @@ function App() {
 
     <>
       <div className="App">
+         <h1>Now it is almost empty</h1>
         <Provider store={store}>
           <BrowserRouter>
             <Menu></Menu>
