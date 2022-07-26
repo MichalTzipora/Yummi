@@ -13,11 +13,8 @@ function App() {
 
     <>
       <div className="App">
-          <h1>xxxxxxxxxxxxxxxxxxxxxx in the full updated even deleted line michal branch</h1>
-          <h3>vvvvvvvvvvvvvvvvvvvvvv</h3>
+         <h1>Now it is almost empty</h1>
         <Provider store={store}>
-          <h1>I just want to check the git hub!!!</h1>
-          <h1>So Strange...</h1>
           <BrowserRouter>
             <Menu></Menu>
             <Router></Router>
